@@ -1,0 +1,342 @@
+movie_id,movie_name,director,star,genre
+tt9218128,Gladiator 2,Ridley Scott,Paul Mescal#Spencer Treat Clark,action
+tt11315808,Joker: Folie à Deux,Todd Phillips,Zazie Beetz#Brendan Gleeson#Joaquin Phoenix#Catherine Keener,action
+tt20969586,Thunderbolts,Jake Schreier,Harrison Ford#Florence Pugh#Julia Louis-Dreyfus#Olga Kurylenko,action
+tt6263850,Deadpool 3,Shawn Levy,Ryan Reynolds#Hugh Jackman#Emma Corrin#Leslie Uggams,action
+tt14513804,Captain America: New World Order,Julius Onah,Harrison Ford#Tim Blake Nelson#Anthony Mackie#Danny Ramirez,action
+tt1757678,Avatar 3,James Cameron,Michelle Yeoh#Zoe Saldana#Sam Worthington#Oona Chaplin,action
+tt18259086,Sonic the Hedgehog 3,Jeff Fowler,Idris Elba#James Marsden#Ben Schwartz#Colleen O'Shaughnessey,action
+tt1684562,The Fall Guy,David Leitch,Aaron Taylor-Johnson#Emily Blunt#Winston Duke#Ryan Gosling,action
+tt10671440,Blade,Yann Demange,Mahershala Ali#Delroy Lindo#Aaron Pierre,action
+tt11389872,Kingdom of the Planet of the Apes,Wes Ball,Dichen Lachman#Kevin Durand#Freya Allan#William H. Macy,action
+tt1197627,National Treasure 3,Ray Gaspard,,action
+tt12037194,Furiosa,George Miller,Anya Taylor-Joy#Tom Burke#Chris Hemsworth#Daniel Webber,action
+tt14824600,The Lord of the Rings: The War of the Rohirrim,Kenji Kamiyama,Brian Cox#Miranda Otto#Bilal Hasna#Shaun Dooley,action
+tt14539740,Godzilla and Kong,Adam Wingard,Brian Tyree Henry#Dan Stevens#Rebecca Hall#Alex Ferns,action
+tt21692408,Kung Fu Panda 4,Angelina Jolie#Seth Rogen#Jackie Chan#James Hong,,action
+tt12584954,Twisters,Lee Isaac Chung,,action
+tt11057302,Madame Web,S.J. Clarkson,Sydney Sweeney#Emma Roberts#Dakota Johnson#Isabela Merced,action
+tt8080204,Hypnotic,Robert Rodriguez,Ben Affleck#William Fichtner#Alice Braga#Jeff Fahey,action
+tt22084616,Untitled Spider-Man Sequel,Tom Holland,,action
+tt9603208,Mission: Impossible - Dead Reckoning - Part Two,Christopher McQuarrie,Nick Offerman#Tom Cruise#Rebecca Ferguson#Vanessa Kirby,action
+tt13818368,Fighter,Siddharth Anand,Deepika Padukone#Hrithik Roshan#Anil Kapoor#Akshay Oberoi,action
+tt11655566,Lilo & Stitch,Dean Fleischer Camp,Chris Sanders,action
+tt0427340,Masters of the Universe,Aaron Nee#Adam Nee,Kyle Allen,action
+tt5834410,The Tiger's Apprentice,Raman Hui#Yong Duk Jhun#Paul Watling,Michelle Yeoh#Henry Golding#Sandra Oh#Bowen Yang,action
+tt16360004,Spider-Man: Beyond the Spider-Verse,Joaquim Dos Santos#Kemp Powers#Justin K. Thompson,Shameik Moore,action
+tt22084516,Karate Kid,,,action
+tt8429660,Muscle,F. Gary Gray,Vin Diesel#Olivia Day,action
+tt22939186,Sand and Stones,Benjamin Brewer,Nicolas Cage#Jaeden Martell#Maxwell Jenkins#Sadie Soverall,action
+tt19845348,El Muerto,Jonás Cuarón,Bad Bunny,action
+tt18163814,Stockholm Bloodbath,Mikael Håfström,Sophie Cookson#Alba August#Emily Beecham#Claes Bang,action
+tt5006214,Nicktoons,Jared Hess,Amy Poehler#Dee Bradley Baker#Mason Vale Cotton#Richard Steven Horvitz,action
+tt11230960,Kaithi 2,Lokesh Kanagaraj,Karthi#Arjun Das#Harish Uthaman#Narain,action
+tt11821912,NTR 30,Koratala Siva,N.T. Rama Rao Jr.#Janhvi Kapoor#Koushik Mahata,action
+tt26009468,Tyrant,Park Hoon-jung,Seung-Won Cha#Kim Seon-Ho#Kang-woo Kim,action
+tt20873898,BRBS,John Swab,,action
+tt10826352,Orbital One,,,action
+tt5880374,1000: The Sword in the Stone,Guido Maria Giordano,Kincso Nora Petho#Imola Gáspár#Carmine Iacono#Marco Lorenzo Valle,action
+tt19892640,The Last Aztec Warrior,Anthony Islas,Frank Haraksin#John Marrs#Sean Dillingham#Fargo Arizona,action
+tt15352048,Reloaded 2,George Tounas,Lili Rich#George Tounas#Joanna Kalafatis#Karel Curras,action
+tt16653984,Secret Invasion Stop Motion,Mario Durán Araujo,Richard Croxford#James R. Baylis#Amelia Forsyth-Smith#Derek Good,action
+tt1428450,Lady and a Gun,Thadd Turner,Thadd Turner#Wyatt Turner,action
+tt15052572,Elephants,,,action
+tt15816274,Secret of the Shroud,Damian Chapa,Damian Chapa#Luke O'Brien#Brian D. Anderson,action
+tt23733594,Insurgency,Daniel McQuade,Daniel McQuade,action
+tt9218128,Gladiator 2,Ridley Scott,Paul Mescal#Spencer Treat Clark,adventure
+tt20969586,Thunderbolts,Jake Schreier,Harrison Ford#Florence Pugh#Julia Louis-Dreyfus#Olga Kurylenko,adventure
+tt14513804,Captain America: New World Order,Julius Onah,Harrison Ford#Tim Blake Nelson#Anthony Mackie#Danny Ramirez,adventure
+tt1757678,Avatar 3,James Cameron,Michelle Yeoh#Zoe Saldana#Sam Worthington#Oona Chaplin,adventure
+tt18259086,Sonic the Hedgehog 3,Jeff Fowler,Idris Elba#James Marsden#Ben Schwartz#Colleen O'Shaughnessey,adventure
+tt10671440,Blade,Yann Demange,Mahershala Ali#Delroy Lindo#Aaron Pierre,adventure
+tt6208148,Snow White,Marc Webb,Gal Gadot#Rachel Zegler#Andrew Burnap#Luisa Guerreiro,adventure
+tt1197627,National Treasure 3,Ray Gaspard,,adventure
+tt12037194,Furiosa,George Miller,Anya Taylor-Joy#Tom Burke#Chris Hemsworth#Daniel Webber,adventure
+tt14824600,The Lord of the Rings: The War of the Rohirrim,Kenji Kamiyama,Brian Cox#Miranda Otto#Bilal Hasna#Shaun Dooley,adventure
+tt14539740,Godzilla and Kong,Adam Wingard,Brian Tyree Henry#Dan Stevens#Rebecca Hall#Alex Ferns,adventure
+tt21692408,Kung Fu Panda 4,Angelina Jolie#Seth Rogen#Jackie Chan#James Hong,,adventure
+tt13186482,Mufasa: The Lion King,Barry Jenkins,Seth Rogen#Billy Eichner#Kelvin Harrison Jr.#Aaron Pierre,adventure
+tt12584954,Twisters,Lee Isaac Chung,,adventure
+tt5779228,Garfield,Mark Dindal,Nicholas Hoult#Hannah Waddingham#Chris Pratt#Cecily Strong,adventure
+tt12299608,Mickey 17,Bong Joon Ho,Robert Pattinson#Toni Collette#Naomi Ackie#Mark Ruffalo,adventure
+tt11057302,Madame Web,S.J. Clarkson,Sydney Sweeney#Emma Roberts#Dakota Johnson#Isabela Merced,adventure
+tt22084616,Untitled Spider-Man Sequel,Tom Holland,,adventure
+tt22022452,Inside Out 2,Kelsey Mann,Diane Lane#Amy Poehler#Phyllis Smith#Lewis Black,adventure
+tt9603208,Mission: Impossible - Dead Reckoning - Part Two,Christopher McQuarrie,Nick Offerman#Tom Cruise#Rebecca Ferguson#Vanessa Kirby,adventure
+tt11655566,Lilo & Stitch,Dean Fleischer Camp,Chris Sanders,adventure
+tt0427340,Masters of the Universe,Aaron Nee#Adam Nee,Kyle Allen,adventure
+tt5834410,The Tiger's Apprentice,Raman Hui#Yong Duk Jhun#Paul Watling,Michelle Yeoh#Henry Golding#Sandra Oh#Bowen Yang,adventure
+tt16360004,Spider-Man: Beyond the Spider-Verse,Joaquim Dos Santos#Kemp Powers#Justin K. Thompson,Shameik Moore,adventure
+tt4900148,Elio,Adrian Molina,America Ferrera#Yonas Kibreab,adventure
+tt7510222,Despicable Me 4,Chris Renaud#Patrick Delage,Steve Carell#Kristen Wiig#Miranda Cosgrove#Steve Coogan,adventure
+tt9613354,The Hunchback of Notre Dame,,,adventure
+tt19845348,El Muerto,Jonás Cuarón,Bad Bunny,adventure
+tt9664112,Detective Pikachu 2,,,adventure
+tt5006214,Nicktoons,Jared Hess,Amy Poehler#Dee Bradley Baker#Mason Vale Cotton#Richard Steven Horvitz,adventure
+tt1167480,Flanimals,,,adventure
+tt5821450,Hump,Peter Dodd#Amin Matalqa,Simon Pegg#Gaten Matarazzo#Ramy Youssef,adventure
+tt26446278,Le Comte de Monte-Cristo,Alexandre de La Patellière#Matthieu Delaporte,Pierre Niney,adventure
+tt12867298,The Witches of the Sands,Tony Mardon,Tony Mardon#Debra Lamb#Linnea Quigley#Dawna Lee Heising,adventure
+tt10826352,Orbital One,,,adventure
+tt5880374,1000: The Sword in the Stone,Guido Maria Giordano,Kincso Nora Petho#Imola Gáspár#Carmine Iacono#Marco Lorenzo Valle,adventure
+tt26469339,The Zone Action: The Movie,Dan Petronijevic#Rachel Wilson#Sarah Podemski#Scott McCord,,adventure
+tt23040026,The Charlotte in Multilink World Movie,Kelvin Kibuuka,Charlotte Mills#Emily Hamilton#Brooke Passingham#Maria Burdett-Clark,adventure
+tt24218194,Volshebnik Izumrudnogo goroda,Igor Voloshin,,adventure
+tt23752846,Artek. Bolshoe puteshestvie. 1812,Karen Zaharov,Mikhail Galustyan#Aleksey Onezhen#Lyudmila Artemeva#Liza Moryak,adventure
+tt20854202,Requiem of Dreams,John-Paul Casella,Sophia Casella#Lev Kozlovsky#Gianna Ray#Kameron Ray,adventure
+tt14824600,The Lord of the Rings: The War of the Rohirrim,Kenji Kamiyama,Brian Cox#Miranda Otto#Shaun Dooley#Luke Pasqualino,animation
+tt18259086,Sonic the Hedgehog 3,Jeff Fowler,Idris Elba#James Marsden#Ben Schwartz#Colleen O'Shaughnessey,animation
+tt13186482,Mufasa: The Lion King,Barry Jenkins,Seth Rogen#Billy Eichner#Kelvin Harrison Jr.#Aaron Pierre,animation
+tt21692408,Kung Fu Panda 4,James Hong#Angelina Jolie#Jack Black#Lucy Liu,,animation
+tt5779228,Garfield,Mark Dindal,Hannah Waddingham#Chris Pratt#Brett Goldstein#Nicholas Hoult,animation
+tt4900148,Elio,Adrian Molina,America Ferrera#Yonas Kibreab,animation
+tt22022452,Inside Out 2,Kelsey Mann,Diane Lane#Amy Poehler#Phyllis Smith#Lewis Black,animation
+tt5834410,The Tiger's Apprentice,Raman Hui#Yong Duk Jhun#Paul Watling,Michelle Yeoh#Henry Golding#Sandra Oh#Leah Lewis,animation
+tt0427340,Masters of the Universe,Aaron Nee#Adam Nee,Kyle Allen,animation
+tt16360004,Spider-Man: Beyond the Spider-Verse,Joaquim Dos Santos#Kemp Powers#Justin K. Thompson,Shameik Moore,animation
+tt7510222,Despicable Me 4,Chris Renaud#Patrick Delage,Steve Carell#Kristen Wiig#Miranda Cosgrove#Steve Coogan,animation
+tt1117392,The Ark and the Aardvark,John Stevenson,Aubrey Plaza#Jenny Slate#Miles Teller#Stephen Merchant,animation
+tt5006214,Nicktoons,Jared Hess,Amy Poehler#Dee Bradley Baker#Richard Steven Horvitz#Mason Cotton,animation
+tt1167480,Flanimals,,,animation
+tt5821450,Hump,Peter Dodd#Amin Matalqa,Simon Pegg#Gaten Matarazzo#Ramy Youssef,animation
+tt11846550,Kayara,Cesar Zelada,,animation
+tt26469339,The Zone Action: The Movie,Sarah Podemski#Dan Petronijevic#Rachel Wilson#Scott McCord,,animation
+tt13036100,Broken Glass,Neil Mikes#Hazel K.,Gwyneth Irene#Garry Naville#Asa Obed#Chronox,animation
+tt25786022,Rafadan Tayfa 4,Ismail Fidan,,animation
+tt26425678,Alien Interloper the Movie,Cee CjayLay,Cee CjayLay#Shannon Cassidy#Lennon Cassidy,animation
+tt23456990,Kittened,Albert Pereira-Lazaro,,animation
+tt25786080,Tay 2,Nurullah Yenihan,,animation
+tt26763526,Piril: Sayilarin Gizemi,Neslihan Bayram Sacihan,Fatih Özkul#Mustafa Oral#Banu Altay#Ekinsu Karaata,animation
+tt25786014,Taktik 6,,,animation
+tt26445518,Full Story Complete Pass,Rajapeno,,animation
+tt25786010,Ekip Siberay,,,animation
+tt27003487,Quacker,Robert Cullen,,animation
+tt8521778,Untitled Bob Marley Biopic,Reinaldo Marcus Green,James Norton#Lashana Lynch#Kingsley Ben-Adir#Michael Gandolfini,biography
+tt11858066,Perfect,Olivia Wilde,Mckenna Grace#Thomasin McKenzie,biography
+tt25049058,The Queen of Heaven,Yiannis Stravolaimos,John Fiore#Yorgos Karamihos#Elena Thomopoulou#Kostis Rampavilas,biography
+tt3635828,Bogie and Bacall,Doug Hutchison#Tracy Reiner#Taylor Tunes#Emily Keefe,,biography
+tt11608116,Between Time and Space: E.S.T.,Nick Peterson,Jonathan Cross#Old-Nick#John Waterhouse#Jenia Emmanuelle,biography
+tt15585058,TINO THE NEW MICHELANGELO,Giuseppe Ferlito,,biography
+tt11681316,The Israelites,Nick Peterson,Old-Nick#Alex Altman,biography
+tt18040604,Boy,Serena Khan,Lubna Zafar#Johnny Cubberley#Saryina Hashmi,biography
+tt22394800,Cem Karaca,,,biography
+tt14134526,Petra Reborn,Kenny Saylors#Kyle Saylors,,biography
+tt11315808,Joker: Folie à Deux,Todd Phillips,Zazie Beetz#Brendan Gleeson#Joaquin Phoenix#Catherine Keener,crime
+tt20969586,Thunderbolts,Jake Schreier,Harrison Ford#Florence Pugh#Julia Louis-Dreyfus#Olga Kurylenko,crime
+tt9413018,Sister Act 3: Kicking the Habit,Tim Federle,Kathy Najimy#Keke Palmer#Whoopi Goldberg#Wendy Makkena,crime
+tt14364480,Knives Out 3,Rian Johnson,Daniel Craig,crime
+tt11230960,Kaithi 2,Lokesh Kanagaraj,Karthi#Arjun Das#Harish Uthaman#Narain,crime
+tt17504980,Deadly Games,Ojan Missaghi,Nazlie Mojiri#Vanessa Angel#Gilles Marini#Emelina Adams,crime
+tt10826608,Redland,,,crime
+tt22488840,Into Pitch Black,Mark Schoonmaker,Garrett Hines,crime
+tt15090554,Dual,Mark Schoonmaker,Johanna Watts#Steve Wilcox#Garrett Hines#Jamie Pasquinelli,crime
+tt14708272,Blood Streams,Derek Wayne Johnson,Yuji Okumoto#Andre Gower#Ryan Lambert#Han Soto,crime
+tt15352048,Reloaded 2,George Tounas,Lili Rich#George Tounas#Joanna Kalafatis#Karel Curras,crime
+tt23750558,A Womanizer's Fate,Tez Dixon,Tuesday Knight#Tez Dixon#Maham Abid#Stephanie Falciano,crime
+tt14643262,Noda Hitam Dalam Pelukan,Dom Dharmo#Revo Marty,,crime
+tt1262426,Wicked,Jon M. Chu,Michelle Yeoh#Jeff Goldblum#Jonathan Bailey#Cynthia Erivo,family
+tt18259086,Sonic the Hedgehog 3,Jeff Fowler,Idris Elba#James Marsden#Ben Schwartz#Colleen O'Shaughnessey,family
+tt6208148,Snow White,Marc Webb,Gal Gadot#Rachel Zegler#Andrew Burnap#Luisa Guerreiro,family
+tt1197627,National Treasure 3,Ray Gaspard,,family
+tt21692408,Kung Fu Panda 4,Angelina Jolie#Seth Rogen#Jackie Chan#James Hong,,family
+tt13186482,Mufasa: The Lion King,Barry Jenkins,Seth Rogen#Billy Eichner#Kelvin Harrison Jr.#Aaron Pierre,family
+tt5779228,Garfield,Mark Dindal,Nicholas Hoult#Hannah Waddingham#Chris Pratt#Cecily Strong,family
+tt11152168,Imaginary Friends,John Krasinski,Ryan Reynolds#John Krasinski#Steve Carell#Phoebe Waller-Bridge,family
+tt22022452,Inside Out 2,Kelsey Mann,Diane Lane#Amy Poehler#Phyllis Smith#Lewis Black,family
+tt11655566,Lilo & Stitch,Dean Fleischer Camp,Chris Sanders,family
+tt9413018,Sister Act 3: Kicking the Habit,Tim Federle,Kathy Najimy#Keke Palmer#Whoopi Goldberg#Wendy Makkena,family
+tt0427340,Masters of the Universe,Aaron Nee#Adam Nee,Kyle Allen,family
+tt5834410,The Tiger's Apprentice,Raman Hui#Yong Duk Jhun#Paul Watling,Michelle Yeoh#Henry Golding#Sandra Oh#Bowen Yang,family
+tt16360004,Spider-Man: Beyond the Spider-Verse,Joaquim Dos Santos#Kemp Powers#Justin K. Thompson,Shameik Moore,family
+tt4900148,Elio,Adrian Molina,America Ferrera#Yonas Kibreab,family
+tt7510222,Despicable Me 4,Chris Renaud#Patrick Delage,Steve Carell#Kristen Wiig#Miranda Cosgrove#Steve Coogan,family
+tt9613354,The Hunchback of Notre Dame,,,family
+tt9664112,Detective Pikachu 2,,,family
+tt5006214,Nicktoons,Jared Hess,Amy Poehler#Dee Bradley Baker#Mason Vale Cotton#Richard Steven Horvitz,family
+tt1167480,Flanimals,,,family
+tt5821450,Hump,Peter Dodd#Amin Matalqa,Simon Pegg#Gaten Matarazzo#Ramy Youssef,family
+tt10826586,Touch,Lauren Sesselmann,,family
+tt25816502,Little Saigon,McFloyd Nguyen,Hong Dao#Van Hong,family
+tt5043784,Diamond Rose,Thadd Turner,Joey Lawrence#Ryan Merriman#Andrew Lawrence#Lisa Stewart,family
+tt5880374,1000: The Sword in the Stone,Guido Maria Giordano,Kincso Nora Petho#Imola Gáspár#Carmine Iacono#Marco Lorenzo Valle,family
+tt26469339,The Zone Action: The Movie,Dan Petronijevic#Rachel Wilson#Sarah Podemski#Scott McCord,,family
+tt9326738,Heaven is Home,Ken Girotti#Ron Oliver,Heather Donahue#Troy Daniel Geiger#Keller Gambill,family
+tt23752846,Artek. Bolshoe puteshestvie. 1812,Karen Zaharov,Mikhail Galustyan#Aleksey Onezhen#Lyudmila Artemeva#Liza Moryak,family
+tt23736870,Palma 2,Aleksandr Domogarov,Viktor Dobronravov#Valeriya Fedorovich#Evgeniya Dmitrieva#Vladimir Ilin,family
+tt20969586,Thunderbolts,Jake Schreier,Harrison Ford#Florence Pugh#Julia Louis-Dreyfus#Olga Kurylenko,fantasy
+tt1757678,Avatar 3,James Cameron,Michelle Yeoh#Zoe Saldana#Sam Worthington#Oona Chaplin,fantasy
+tt1262426,Wicked,Jon M. Chu,Michelle Yeoh#Jeff Goldblum#Jonathan Bailey#Cynthia Erivo,fantasy
+tt18259086,Sonic the Hedgehog 3,Jeff Fowler,Idris Elba#James Marsden#Ben Schwartz#Colleen O'Shaughnessey,fantasy
+tt10671440,Blade,Yann Demange,Mahershala Ali#Delroy Lindo#Aaron Pierre,fantasy
+tt6208148,Snow White,Marc Webb,Gal Gadot#Rachel Zegler#Andrew Burnap#Luisa Guerreiro,fantasy
+tt14824600,The Lord of the Rings: The War of the Rohirrim,Kenji Kamiyama,Brian Cox#Miranda Otto#Bilal Hasna#Shaun Dooley,fantasy
+tt21692408,Kung Fu Panda 4,Angelina Jolie#Seth Rogen#Jackie Chan#James Hong,,fantasy
+tt5779228,Garfield,Mark Dindal,Nicholas Hoult#Hannah Waddingham#Chris Pratt#Cecily Strong,fantasy
+tt11152168,Imaginary Friends,John Krasinski,Ryan Reynolds#John Krasinski#Steve Carell#Phoebe Waller-Bridge,fantasy
+tt22084616,Untitled Spider-Man Sequel,Tom Holland,,fantasy
+tt22022452,Inside Out 2,Kelsey Mann,Diane Lane#Amy Poehler#Phyllis Smith#Lewis Black,fantasy
+tt11655566,Lilo & Stitch,Dean Fleischer Camp,Chris Sanders,fantasy
+tt0427340,Masters of the Universe,Aaron Nee#Adam Nee,Kyle Allen,fantasy
+tt5834410,The Tiger's Apprentice,Raman Hui#Yong Duk Jhun#Paul Watling,Michelle Yeoh#Henry Golding#Sandra Oh#Bowen Yang,fantasy
+tt16360004,Spider-Man: Beyond the Spider-Verse,Joaquim Dos Santos#Kemp Powers#Justin K. Thompson,Shameik Moore,fantasy
+tt4900148,Elio,Adrian Molina,America Ferrera#Yonas Kibreab,fantasy
+tt9613354,The Hunchback of Notre Dame,,,fantasy
+tt5006214,Nicktoons,Jared Hess,Amy Poehler#Dee Bradley Baker#Mason Vale Cotton#Richard Steven Horvitz,fantasy
+tt1167480,Flanimals,,,fantasy
+tt5880374,1000: The Sword in the Stone,Guido Maria Giordano,Kincso Nora Petho#Imola Gáspár#Carmine Iacono#Marco Lorenzo Valle,fantasy
+tt23040026,The Charlotte in Multilink World Movie,Kelvin Kibuuka,Charlotte Mills#Emily Hamilton#Brooke Passingham#Maria Burdett-Clark,fantasy
+tt26446463,Dark Suns II - Binary Sunset,Keon Etminan#Luca Zapata,,fantasy
+tt24218194,Volshebnik Izumrudnogo goroda,Igor Voloshin,,fantasy
+tt22796470,The Elvish Princess,Wendy-Anne Daloz,,fantasy
+tt12571788,Coven of Dixon Cliff,,,fantasy
+tt23752846,Artek. Bolshoe puteshestvie. 1812,Karen Zaharov,Mikhail Galustyan#Aleksey Onezhen#Lyudmila Artemeva#Liza Moryak,fantasy
+tt20854202,Requiem of Dreams,John-Paul Casella,Sophia Casella#Lev Kozlovsky#Gianna Ray#Kameron Ray,fantasy
+tt18163814,Stockholm Bloodbath,Mikael Håfström,Sophie Cookson#Alba August#Emily Beecham#Claes Bang,history
+tt25049058,The Queen of Heaven,Yiannis Stravolaimos,John Fiore#Yorgos Karamihos#George Angelopoulos#Yorgo Voyagis,history
+tt13433802,A Quiet Place: Day One,Michael Sarnoski,Lupita Nyong'o#Joseph Quinn#Alex Wolff,horror
+tt10671440,Blade,Yann Demange,Mahershala Ali#Delroy Lindo#Aaron Pierre,horror
+tt22525332,Untitled M. Night Shyamalan Project,M. Night Shyamalan,,horror
+tt23468450,Longlegs,Oz Perkins,Nicolas Cage#Maika Monroe,horror
+tt21942866,Dream Scenario,Kristoffer Borgli,Nicolas Cage#Michael Cera#Tim Meadows#Julianne Nicholson,horror
+tt22939186,Sand and Stones,Benjamin Brewer,Nicolas Cage#Jaeden Martell#Maxwell Jenkins#Sadie Soverall,horror
+tt9682428,Night Swim,Bryce McGuire,Kerry Condon#Wyatt Russell,horror
+tt12856590,Halloween: Season of the Boogeyman,Michael White Jr.#Clint Shelton#Justin Ray Harvey#Cheyanne Alexander,,horror
+tt5598542,Mephistopheles,Jerome Cloutier,,horror
+tt12867298,The Witches of the Sands,Tony Mardon,Tony Mardon#Debra Lamb#Linnea Quigley#Dawna Lee Heising,horror
+tt26671990,I Know Exactly How You Die,Alexandra Spieth,Rushabh Patel#Christopher Berghoff#Stephanie Hogan#Bobby Liga,horror
+tt10698588,Ghoul,John Ward,Julie Anne Prescott#Maria Olsen#Ben Stobber#James Balsamo,horror
+tt19115120,Amityville Leprechaun,Jack Hunter II,Jack Hunter II#Cody Tudor#Dustin Hubbard,horror
+tt22488840,Into Pitch Black,Mark Schoonmaker,Garrett Hines,horror
+tt10305256,Alone in the Night,Joe Hammerstone,Kaylee Williams#Joe Hammerstone#Casey Lee McIntosh#Cory Kays,horror
+tt18569148,Amityville Poo: Killer Poop 2,Matthew Mark Hunter,Joe Filippone#Matthew Mark Hunter#Daniel Schoenau#Billy Culbertson,horror
+tt15090554,Dual,Mark Schoonmaker,Johanna Watts#Steve Wilcox#Garrett Hines#Jamie Pasquinelli,horror
+tt13179872,Alice,Chris Mitchell-Clare,Seth Collier#Teirah Green#Damien Blewett#Jeff Campbell,horror
+tt13487430,The Moon Is a Hologram,Selene Kapsaski,Ciaron Davies#Rahel Kapsaski#Robyn Adams#Selene Kapsaski,horror
+tt23750558,A Womanizer's Fate,Tez Dixon,Tuesday Knight#Tez Dixon#Maham Abid#Stephanie Falciano,horror
+tt26426786,Half-Life: Ravenholm,Jonathon Glickman,Carl Dobson#Dan McGee#Wayne Reid,horror
+tt14870982,Wicked Jack,Morgan Welborn,Sushii Xhyvette Holder#Steve Hansen,horror
+tt16996464,Helen,Lionel Fernandez,Cheryl De Marco,horror
+tt15294074,On a Night Like Tonight,,,horror
+tt11542860,Time Traveler's,Simon Davidson#Rj Vervuurt#Benny Avemis,,horror
+tt26658708,Sloan,Bob Garlen,,horror
+tt26658102,Deinfluencer: Offline,Jamie Bailey,Simon Phillips,horror
+tt26238738,Vamp Camp,Ryan Carlson,,horror
+tt21607578,The Curse of Eddie Bishop,Mark Spayne,Laura Ellen Wilson#Mark Spayne#Rod Glenn#Carl Dobson,horror
+tt3857078,Demon Party,Jerome Cloutier,Josh Bond,horror
+tt19767938,Atrás De La Sombra,Alfonso Quijada,,horror
+tt14391278,Teenagers Vs. The Wraith on Mount Keira,Brogan McMorrow,Aiden Mckenzie#Brogan McMorrow#British Flower#Cooper Mortlock,horror
+tt26736843,The Watchers,Ishana Shyamalan,,horror
+tt1197627,National Treasure 3,Ray Gaspard,,mystery
+tt8080204,Hypnotic,Robert Rodriguez,Ben Affleck#William Fichtner#Alice Braga#Jeff Fahey,mystery
+tt14364480,Knives Out 3,Rian Johnson,Daniel Craig,mystery
+tt9664112,Detective Pikachu 2,,,mystery
+tt12867298,The Witches of the Sands,Tony Mardon,Tony Mardon#Debra Lamb#Linnea Quigley#Dawna Lee Heising,mystery
+tt7972570,Mr. K,Tallulah Hazekamp Schwab,,mystery
+tt10826608,Redland,,,mystery
+tt12421680,Angels,Robert Benjamin,Schelaine Bennett#Keenan Arrison#Sello Maake Ka-Ncube#Brendon Daniels,mystery
+tt26426786,Half-Life: Ravenholm,Jonathon Glickman,Carl Dobson#Dan McGee#Wayne Reid,mystery
+tt15294074,On a Night Like Tonight,,,mystery
+tt18482838,In Unison,Jeff Lukeski,Jeff Lukeski#Paul Worley#Kristina Hollaway#Kenneth Davenport,mystery
+tt22411280,Ubiquitär,Bernhard Ratka,Emily Schmeller,mystery
+tt19767938,Atrás De La Sombra,Alfonso Quijada,,mystery
+tt26702263,The Twelvemile,Brian Parks,Lilly Leann Wright,mystery
+tt26736843,The Watchers,Ishana Shyamalan,,mystery
+tt6208148,Snow White,Marc Webb,Gal Gadot#Rachel Zegler#Andrew Burnap#Luisa Guerreiro,romance
+tt1262426,Wicked,Jon M. Chu,Michelle Yeoh#Jeff Goldblum#Jonathan Bailey#Cynthia Erivo,romance
+tt9613354,The Hunchback of Notre Dame,,,romance
+tt12759152,Untitled Dirty Dancing Project,Jonathan Levine,Jennifer Grey,romance
+tt21879688,Heart Stopper,Alexsiya Flora,Alexis Baca#Sabrina Culver#Jackie Smith#Laura Mason,romance
+tt24017338,Save Me,Pascal Payant,Cody John#Kiri Hartig#Robert Lewis Stephenson#Valerie La Rose,romance
+tt10826586,Touch,Lauren Sesselmann,,romance
+tt26442686,Night Desire,Erika Lust#Freya Joseph,Casey Calvert#Michael Vegas#Ava Max#Bishop Black,romance
+tt23774544,The Borrowing,Jason M. Koch,Rolando Davila-Beltran,romance
+tt10826352,Orbital One,,,romance
+tt5043784,Diamond Rose,Thadd Turner,Joey Lawrence#Ryan Merriman#Andrew Lawrence#Thadd Turner,romance
+tt19354890,Miss Beauty of Earth,Leonid Khromov,Joey Heyworth#Bubba Taylor#Rocío de la Grana#Nina Beni,romance
+tt15352048,Reloaded 2,George Tounas,Lili Rich#George Tounas#Joanna Kalafatis#Taj Khan,romance
+tt12794380,Untouchable,Quasheem D. Herring,Tyeasha VanBuren#Zari Rice#Adara Leigh#Oceania Anderson,romance
+tt13036100,Broken Glass,Neil Mikes#Hazel K.,Gwyneth Irene#Garry Naville#Asa Obed#Chronox,romance
+tt11542860,Time Traveler's,Benny Avemis#Simon Davidson#Rj Vervuurt,,romance
+tt24218224,Prorok. Istoriya Aleksandra Pushkina,Felix Umarov,Paulina Andreeva#Yuriy Borisov#Filipp Yankovskiy#Kai Aleks Getts,romance
+tt14832456,Pepper,,,romance
+tt21652950,Swiped,Joe Ambridge,Mezi Atwood#Christopher Walz#Ben Portelli#Tyneak Hellings,romance
+tt26238738,Vamp Camp: Being a Melodrama in Three Parts,Ryan Carlson,,romance
+tt15106154,Red Thread of Fate,Woo Ae Yi,Cody Cowell#Anthony Sayo#Nick Messersmith#Woo Ae Yi,romance
+tt12302590,In the Shadow of White,Peter Halmi,Kristina Goztola,romance
+tt9371598,This Time Next Year I'll Be Famous,Mark Spayne,Laura Ellen Wilson#Mark Spayne#Carl Dobson#Stephanie Cubello,romance
+tt16174896,Rumspringa,Brando Crawford,,romance
+tt23747498,Onegin,Sarik Andreasyan,,romance
+tt21906356,When You Look Me in the Eyes,Brogan McMorrow,Brogan McMorrow,romance
+tt20969586,Thunderbolts,Jake Schreier,Harrison Ford#Florence Pugh#Julia Louis-Dreyfus#Olga Kurylenko,sci-fi
+tt6263850,Deadpool 3,Shawn Levy,Ryan Reynolds#Hugh Jackman#Emma Corrin#Leslie Uggams,sci-fi
+tt14513804,Captain America: New World Order,Julius Onah,Harrison Ford#Tim Blake Nelson#Anthony Mackie#Danny Ramirez,sci-fi
+tt13433802,A Quiet Place: Day One,Michael Sarnoski,Lupita Nyong'o#Joseph Quinn#Alex Wolff,sci-fi
+tt1757678,Avatar 3,James Cameron,Michelle Yeoh#Zoe Saldana#Sam Worthington#Oona Chaplin,sci-fi
+tt18259086,Sonic the Hedgehog 3,Jeff Fowler,Idris Elba#James Marsden#Ben Schwartz#Colleen O'Shaughnessey,sci-fi
+tt10671440,Blade,Yann Demange,Mahershala Ali#Delroy Lindo#Aaron Pierre,sci-fi
+tt11389872,Kingdom of the Planet of the Apes,Wes Ball,Dichen Lachman#Kevin Durand#Freya Allan#William H. Macy,sci-fi
+tt12037194,Furiosa,George Miller,Anya Taylor-Joy#Tom Burke#Chris Hemsworth#Daniel Webber,sci-fi
+tt12299608,Mickey 17,Bong Joon Ho,Robert Pattinson#Toni Collette#Naomi Ackie#Mark Ruffalo,sci-fi
+tt11057302,Madame Web,S.J. Clarkson,Sydney Sweeney#Emma Roberts#Dakota Johnson#Isabela Merced,sci-fi
+tt11655566,Lilo & Stitch,Dean Fleischer Camp,Chris Sanders,sci-fi
+tt0427340,Masters of the Universe,Aaron Nee#Adam Nee,Kyle Allen,sci-fi
+tt16360004,Spider-Man: Beyond the Spider-Verse,Joaquim Dos Santos#Kemp Powers#Justin K. Thompson,Shameik Moore,sci-fi
+tt4900148,Elio,Adrian Molina,America Ferrera#Yonas Kibreab,sci-fi
+tt4671296,The Magnificent Raiders of Dimension War One,Dante D'Anthony,Tom Sizemore#Bai Ling#Gigi Edgley#Robert LaSardo,sci-fi
+tt19845348,El Muerto,Jonás Cuarón,Bad Bunny,sci-fi
+tt10826352,Orbital One,,,sci-fi
+tt11144724,Dark Alien Visions,Arthur Springer,Monique LeClair#Nova Lee LeClair#Lisa Daniels#Hoke Hayes,sci-fi
+tt13487430,The Moon Is a Hologram,Selene Kapsaski,Ciaron Davies#Rahel Kapsaski#Robyn Adams#Selene Kapsaski,sci-fi
+tt26426786,Half-Life: Ravenholm,Jonathon Glickman,Carl Dobson#Dan McGee#Wayne Reid,sci-fi
+tt25730172,Escape from the Metaverse,Matthew Cooper,,sci-fi
+tt18482838,In Unison,Jeff Lukeski,Jeff Lukeski#Paul Worley#Kristina Hollaway#Kenneth Davenport,sci-fi
+tt11858066,Perfect,Olivia Wilde,Thomasin McKenzie#Mckenna Grace,sport
+tt10826586,Touch,Lauren Sesselmann,,sport
+tt11315808,Joker: Folie à Deux,Todd Phillips,Zazie Beetz#Brendan Gleeson#Joaquin Phoenix#Catherine Keener,thriller
+tt13433802,A Quiet Place: Day One,Michael Sarnoski,Lupita Nyong'o#Joseph Quinn#Alex Wolff,thriller
+tt1757678,Avatar 3,James Cameron,Michelle Yeoh#Zoe Saldana#Sam Worthington#Oona Chaplin,thriller
+tt1197627,National Treasure 3,Ray Gaspard,,thriller
+tt12037194,Furiosa,George Miller,Anya Taylor-Joy#Tom Burke#Chris Hemsworth#Daniel Webber,thriller
+tt8080204,Hypnotic,Robert Rodriguez,Ben Affleck#William Fichtner#Alice Braga#Jeff Fahey,thriller
+tt9603208,Mission: Impossible - Dead Reckoning - Part Two,Christopher McQuarrie,Nick Offerman#Tom Cruise#Rebecca Ferguson#Vanessa Kirby,thriller
+tt13818368,Fighter,Siddharth Anand,Deepika Padukone#Hrithik Roshan#Anil Kapoor#Akshay Oberoi,thriller
+tt14364480,Knives Out 3,Rian Johnson,Daniel Craig,thriller
+tt22525332,Untitled M. Night Shyamalan Project,M. Night Shyamalan,,thriller
+tt23468450,Longlegs,Oz Perkins,Nicolas Cage#Maika Monroe,thriller
+tt8542964,Sleeping Dogs,Adam Cooper,Russell Crowe,thriller
+tt22939186,Sand and Stones,Benjamin Brewer,Nicolas Cage#Jaeden Martell#Maxwell Jenkins#Sadie Soverall,thriller
+tt24017338,Save Me,Pascal Payant,Cody John#Kiri Hartig#Robert Lewis Stephenson#Valerie La Rose,thriller
+tt8679660,Anna,James Strong,Maxine Peake#Ciarán Hinds#Jason Isaacs#Naomi Battrick,thriller
+tt11230960,Kaithi 2,Lokesh Kanagaraj,Karthi#Arjun Das#Harish Uthaman#Narain,thriller
+tt11821912,NTR 30,Koratala Siva,N.T. Rama Rao Jr.#Janhvi Kapoor#Koushik Mahata,thriller
+tt23774544,The Borrowing,Jason M. Koch,Rolando Davila-Beltran,thriller
+tt26446278,Le Comte de Monte-Cristo,Alexandre de La Patellière#Matthieu Delaporte,Pierre Niney,thriller
+tt15839080,Black Friday,Justin Groetsch,Ryan Whitney#Miko Hughes#Jake T. Austin#Sydney Morgan,thriller
+tt20873898,BRBS,John Swab,,thriller
+tt17504980,Deadly Games,Ojan Missaghi,Nazlie Mojiri#Vanessa Angel#Gilles Marini#Emelina Adams,thriller
+tt17671748,Reapers Night,Justin Groetsch,Kristy Swanson#David Koechner#Miko Hughes#Dante Basco,thriller
+tt10826608,Redland,,,thriller
+tt16915540,Careful How You Play,Shannon Marie Guthrie,,thriller
+tt22488840,Into Pitch Black,Mark Schoonmaker,Garrett Hines,thriller
+tt10305256,Alone in the Night,Joe Hammerstone,Kaylee Williams#Joe Hammerstone#Casey Lee McIntosh#Cory Kays,thriller
+tt15090554,Dual,Mark Schoonmaker,Johanna Watts#Steve Wilcox#Garrett Hines#Jamie Pasquinelli,thriller
+tt14708272,Blood Streams,Derek Wayne Johnson,Yuji Okumoto#Andre Gower#Ryan Lambert#Han Soto,thriller
+tt15352048,Reloaded 2,George Tounas,Lili Rich#George Tounas#Joanna Kalafatis#Karel Curras,thriller
+tt23750558,A Womanizer's Fate,Tez Dixon,Tuesday Knight#Tez Dixon#Maham Abid#Stephanie Falciano,thriller
+tt26599758,Cutter,Ron Scalpello,,thriller
+tt16653984,Secret Invasion Stop Motion,Mario Durán Araujo,Richard Croxford#James R. Baylis#Amelia Forsyth-Smith#Derek Good,thriller
+tt15294074,On a Night Like Tonight,,,thriller
+tt1428450,Lady and a Gun,Thadd Turner,Thadd Turner#Wyatt Turner,thriller
+tt13810170,Unseen Lives,Matt E Hudson,Matt E Hudson,thriller
+tt26658708,Sloan,Bob Garlen,,thriller
+tt15381550,Alone with the Darkest of Minds,Brogan McMorrow,Brogan McMorrow#Jordan Love#Christopher McKay#Bella Valentini,thriller
+tt14643262,Noda Hitam Dalam Pelukan,Dom Dharmo#Revo Marty,,thriller
+tt4722978,The Last Saint of Market Street,,,thriller
+tt18482838,In Unison,Jeff Lukeski,Jeff Lukeski#Paul Worley#Kristina Hollaway#Kenneth Davenport,thriller
+tt13932520,From Deep in the Realm,,,thriller
+tt19767938,Atrás De La Sombra,Alfonso Quijada,,thriller
+tt26702263,The Twelvemile,Brian Parks,Lilly Leann Wright,thriller
+tt26736843,The Watchers,Ishana Shyamalan,,thriller
+tt26744435,Il était une fois... Another French Movie,Aurélien Harzoune,Armelle Deutsch#Georges D'Audignon#Gilles Morvan#Damas Roy,thriller
+tt5177120,The Ministry of Ungentlemanly Warfare,Guy Ritchie,Henry Cavill#Alan Ritchson#Eiza González#Cary Elwes,war
+tt18712694,The Lights,Douglas Kyle,Jim Currie#Douglas Kyle#Josh Currie#Andrew Kyle,war
